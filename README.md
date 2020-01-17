@@ -1,6 +1,8 @@
 # Hull-Tactical-Contest
 
-Developing S&P 500 Predictions Using xgboost to remove unnecessary variables and LSTM to develop a visual of our day-to-day predictions
+Predict S&P500 daily returns and implement a market timing strategy that buys and sells the index automatically based on the prediction model
+
+Our Goal: Using a gradient boosting model and a principal component analysis, create a fast and robust LSTM that will predict the day to day changes
 
 Educational Links: 
 
