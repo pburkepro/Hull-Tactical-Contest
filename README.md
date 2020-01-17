@@ -11,4 +11,4 @@ https://www.coursera.org/learn/nlp-sequence-models Coursera that goes into the "
 
 Big Dates:      
 Jan. 24 ddl for registration      
-Week of Mar. 2nd ddl for code test (prediction) and qualification test and proposal (creative)
+Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification test and proposal (creative)
