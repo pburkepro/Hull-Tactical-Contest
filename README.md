@@ -10,5 +10,5 @@ https://www.youtube.com/watch?v=9zhrxE5PQgY&t=2415s This video explains the theo
 https://www.coursera.org/learn/nlp-sequence-models Coursera that goes into the "how" of Neural Networks
 
 Big Dates:      
-Jan. 24 ddl for registration      
+~Jan. 24 ddl for registration~  
 Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification test and proposal (creative)
