@@ -26,3 +26,9 @@ Elia & Sergio - PCA, PCA Writeup
 Crystal - Research other models, variable meanings    
 
 Patrick - Barebones LSTM, LSTM writeup    
+
+## Team
+
+
+
+<a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a>
