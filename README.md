@@ -1,5 +1,7 @@
 # Hull-Tactical-Contest
 
+Team Name: PESTO
+
 Predict S&P500 daily returns and implement a market timing strategy that buys and sells the index automatically based on the prediction model
 
 Our Goal: Using a gradient boosting model and a principal component analysis, create a fast and robust LSTM that will predict the day to day changes
