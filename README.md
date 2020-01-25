@@ -20,10 +20,9 @@ Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification t
 Office Hours  
 Friday 10-12, SH Cubicle 5432 X  
 
-Friday   
+Sunday      
 Elia & Sergio - PCA, PCA Writeup   
 
 Crystal - Research other models, variable meanings    
 
-Patrick - Barebones LSTM, LSTM writeup
- 
+Patrick - Barebones LSTM, LSTM writeup    
