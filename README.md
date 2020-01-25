@@ -29,6 +29,10 @@ Patrick - Barebones LSTM, LSTM writeup
 
 ## Team
 
-| <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> 
+| 
+<a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> 
+|
+<a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a>
 |
 <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> 
+|
