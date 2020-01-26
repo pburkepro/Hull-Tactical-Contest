@@ -9,6 +9,7 @@ Educational Links:
 https://www.youtube.com/watch?v=9zhrxE5PQgY&t=2415s This video explains the theories behind LSTM.
 https://www.coursera.org/learn/nlp-sequence-models Coursera that goes into the "how" of Neural Networks
 
+## Deadlines 
 Big Dates:      
 ~Jan. 24 ddl for registration~     
 January 27 - Our PCA is done, understand variables    
@@ -17,6 +18,7 @@ February 15 - Prediction must be finished
 February 22 - Strategy must be finished    
 Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification test and proposal (creative)   
 
+## Resources 
 Office Hours  
 Friday 10-12, SH Cubicle 5432 X  
 
