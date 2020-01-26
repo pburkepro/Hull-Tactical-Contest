@@ -30,6 +30,6 @@ Patrick - Barebones LSTM, LSTM writeup
 ## Pesto Team
 
 | **Patrick Burke** | **Wangqing Liu** | **Yiyi Xu** | **Sergio Zambrano** |
-|---|---------------|---|---|
-|![Patrick Burke](https://cdn.pixabay.com/photo/2019/05/07/11/39/pasta-4185716_960_720.png)|![Wangwing](https://webstockreview.net/images/italian-clipart-fettuccine-13.png)|![Sergio Zambrano](https://static.abcteach.com/free_preview/p/pastabnw_p.png)|
+|---|---|---|---|
+|![Patrick Burke](https://banner2.cleanpng.com/20180625/xse/kisspng-coloring-book-pasta-drawing-tagliatelle-noodle-5b311d565e9003.8195634115299454303873.jpg)|![Wangwing](https://webstockreview.net/images/italian-clipart-fettuccine-13.png)|![Sergio Zambrano](https://static.abcteach.com/free_preview/p/pastabnw_p.png)|
 | <a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a> | Pending Link  | <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> |  <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> |
