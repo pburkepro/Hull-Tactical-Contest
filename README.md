@@ -34,5 +34,8 @@ Patrick - Barebones LSTM, LSTM writeup
 |![Patrick Burke](https://thumbs.dreamstime.com/b/cartoon-spaghetti-meatballs-black-white-line-retro-style-vector-available-37026927.jpg?s=200)|![Wangwing](https://i.pinimg.com/originals/7a/f9/a3/7af9a3ce93953a6579fc36023e8beafc.jpg?s==200)|![Yiyi](https://webstockreview.net/images/italian-clipart-fettuccine-13.png?s=200)| ![Sergio Zambrano](https://thumbs.dreamstime.com/b/cartoon-spaghetti-icon-isolated-white-background-vector-145039903.jpg?s=200)|
 | <a href="https://github.com/pwllmb" target="_blank">`pwllmb`</a> | <a href="https://github.com/pwllmb/Hull-Tactical-Contest">`Wanqing`</a>  | <a href="https://github.com/eliaiye" target="_blank">`eliaiye`</a> |  <a href="https://github.com/chilledapplesauce" target="_blank">`chilledapplesauce`</a> |
 
+## License 
 
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
