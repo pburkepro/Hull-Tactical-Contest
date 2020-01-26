@@ -31,4 +31,4 @@ Patrick - Barebones LSTM, LSTM writeup
 
 | **Patrick Burke** | **Wangqing Liu**  |**Yiyi Xu** | **Sergio Zambrano** |
 |---|---|---|---|
-| <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> | Pending Link |<a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a> | <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> |
+| <a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a> | Pending Link  | <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> |  <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> |
