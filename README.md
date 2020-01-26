@@ -31,5 +31,5 @@ Patrick - Barebones LSTM, LSTM writeup
 
 | **Patrick Burke** | **Wangqing Liu** | **Yiyi Xu** | **Sergio Zambrano** |
 |---|---|---|---|
-|![Patrick Burke](https://banner2.cleanpng.com/20180625/xse/kisspng-coloring-book-pasta-drawing-tagliatelle-noodle-5b311d565e9003.8195634115299454303873.jpg)|![Wangwing](https://webstockreview.net/images/italian-clipart-fettuccine-13.png)|![Sergio Zambrano](https://static.abcteach.com/free_preview/p/pastabnw_p.png)|
+|![Patrick Burke](https://thumbs.dreamstime.com/b/cartoon-spaghetti-meatballs-black-white-line-retro-style-vector-available-37026927.jpg)|![Wangwing](https://webstockreview.net/images/italian-clipart-fettuccine-13.png)|![Sergio Zambrano](https://static.abcteach.com/free_preview/p/pastabnw_p.png)|
 | <a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a> | Pending Link  | <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> |  <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> |
