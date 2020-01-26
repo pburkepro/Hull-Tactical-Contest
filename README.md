@@ -4,6 +4,8 @@ Predict S&P500 daily returns and implement a market timing strategy that buys an
 
 Our Goal: Using a gradient boosting model and a principal component analysis, create a fast and robust LSTM that will predict the day to day changes
 
+## Documentation
+
 ## Education Links 
 
 https://www.youtube.com/watch?v=9zhrxE5PQgY&t=2415s This video explains the theories behind LSTM.
@@ -18,7 +20,7 @@ February 15 - Prediction must be finished
 February 22 - Strategy must be finished    
 Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification test and proposal (creative)   
 
-## Resources 
+## Competition Resources 
 Office Hours  
 Friday 10-12, SH Cubicle 5432 X  
 
