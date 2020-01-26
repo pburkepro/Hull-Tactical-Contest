@@ -29,17 +29,11 @@ Patrick - Barebones LSTM, LSTM writeup
 
 ## Team
 
-| **Elia (YiYi ) Xu** 
-|
-**Patrick Burke**
-|
-**Sergio Zambrano**
-| 
-| :---:| :---: | :---: |
-|
-<a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> 
-|
-<a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a>
-|
-<a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> 
-|
+| **Elia (YiYi ) Xu** | **Patrick Burke** |
+**Sergio Zambrano** |
+
+| :---: | :---: | :---: |
+
+| <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> 
+|<a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a>
+|<a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> |
