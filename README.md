@@ -32,7 +32,7 @@ Patrick - Barebones LSTM, LSTM writeup
 | **Patrick Burke** | **Crystak Liu** | **Yiyi Xu** | **Sergio Zambrano** |
 |---|---|---|---|
 |![Patrick Burke](https://thumbs.dreamstime.com/b/cartoon-spaghetti-meatballs-black-white-line-retro-style-vector-available-37026927.jpg)|![Wangwing](https://i.pinimg.com/originals/7a/f9/a3/7af9a3ce93953a6579fc36023e8beafc.jpg)|![Yiyi](https://webstockreview.net/images/italian-clipart-fettuccine-13.png)| ![Sergio Zambrano](https://thumbs.dreamstime.com/b/cartoon-spaghetti-icon-isolated-white-background-vector-145039903.jpg)|
-| <a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a> | Pending Link  | <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> |  <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> |
+| <a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a> | <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a>  | <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> |  <a href="https://github.com/chilledapplesauce" target="_blank">`https://github.com/chilledapplesauce`</a> |
 
 
 
