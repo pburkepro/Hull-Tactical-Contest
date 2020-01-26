@@ -32,7 +32,7 @@ Patrick - Barebones LSTM, LSTM writeup
 | **Elia (YiYi ) Xu** | **Patrick Burke** |
 **Sergio Zambrano** |
 
-| :---: | :---: | :---: |
+|:---:|:---:|:---:|
 
 | <a href="https://github.com/eliaiye" target="_blank">`https://github.com/eliaiye`</a> 
 |<a href="https://github.com/pwllmb" target="_blank">`https://github.com/pwllmb`</a>
