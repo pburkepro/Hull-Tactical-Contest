@@ -4,12 +4,12 @@ Predict S&P500 daily returns and implement a market timing strategy that buys an
 
 Our Goal: Using a gradient boosting model and a principal component analysis, create a fast and robust LSTM that will predict the day to day changes
 
-Educational Links: 
+## Education Links 
 
 https://www.youtube.com/watch?v=9zhrxE5PQgY&t=2415s This video explains the theories behind LSTM.
 https://www.coursera.org/learn/nlp-sequence-models Coursera that goes into the "how" of Neural Networks
 
-## Deadlines 
+## Competition Deadlines 
 Big Dates:      
 ~Jan. 24 ddl for registration~     
 January 27 - Our PCA is done, understand variables    
@@ -22,6 +22,7 @@ Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification t
 Office Hours  
 Friday 10-12, SH Cubicle 5432 X  
 
+## Individual Deadlines
 Sunday      
 Elia & Sergio - PCA, PCA Writeup   
 
