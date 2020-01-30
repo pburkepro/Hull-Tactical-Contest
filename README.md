@@ -8,6 +8,7 @@ Educational Links:
 
 https://www.youtube.com/watch?v=9zhrxE5PQgY&t=2415s This video explains the theories behind LSTM.
 https://www.coursera.org/learn/nlp-sequence-models Coursera that goes into the "how" of Neural Networks
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/ source code for LSTM
 
 Big Dates:      
 ~Jan. 24 ddl for registration~     
