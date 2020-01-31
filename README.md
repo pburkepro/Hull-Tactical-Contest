@@ -21,8 +21,8 @@ https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-
 ## Competition Deadlines 
 Big Dates:      
 ~Jan. 24 ddl for registration~     
-January 27 - Our PCA is done, understand variables    
-January 31 - Test run first LSTM   
+~January 27 - Our PCA is done, understand variables~    
+~January 31 - Test run first LSTM~
 February 15 - Prediction must be finished   
 February 22 - Strategy must be finished    
 Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification test and proposal (creative)   
