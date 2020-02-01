@@ -19,7 +19,7 @@ https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-
 
 
 ## Competition Deadlines 
-Big Dates:      
+***Big Dates:***      
 ~Jan. 24 ddl for registration~     
 ~January 27 - Our PCA is done, understand variables~    
 ~January 31 - Test run first LSTM~       
@@ -28,11 +28,11 @@ February 22 - Strategy must be finished
 Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification test and proposal (creative)   
 
 ## Competition Resources 
-Office Hours  
+***Office Hours*** 
 Friday 10-12, SH Cubicle 5432 X  
 
 ## Individual Deadlines
-Sunday      
+***Sunday February 2, 2020***      
 Elia & Sergio - PCA, PCA Writeup   
 
 Crystal - Research other models, variable meanings    
