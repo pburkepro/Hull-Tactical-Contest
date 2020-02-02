@@ -32,12 +32,14 @@ Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification t
 Friday 10-12, SH Cubicle 5432 X  
 
 ## Individual Deadlines
-***Sunday February 2, 2020***      
-Elia & Sergio - PCA, PCA Writeup   
+***Friday February 7, 2020***      
+Elia - Finish reading LSTM book   
 
-Crystal - Research other models, variable meanings    
+Sergio - Office hours     
 
-Patrick - Barebones LSTM, LSTM writeup    
+Crystal - Research other models     
+
+Patrick - Finish reading LSTM book, office hours        
 
 ## Pesto Team
 
