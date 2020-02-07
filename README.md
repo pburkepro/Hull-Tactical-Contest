@@ -45,7 +45,7 @@ Crystal - Trading Strategy / Creativity Presentation
 
 Patrick - Optimize GBM        
 
-## Pesto Team
+## PESTO Team
 
 | **Patrick Burke** | **Wanqing Liu** | **Yiyi Xu** | **Sergio Zambrano** |
 |---|---|---|---|
