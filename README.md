@@ -33,11 +33,11 @@ Friday 10-12, SH Cubicle 5432 X
 
 ## Individual Deadlines
 ***Friday February 15, 2020***      
-Elia - Finish reading LSTM book   
+Elia - Trading Strategy / Creativity Presentation    
 
 Sergio - Optimize LSTM   
 
-Crystal - Research other models     
+Crystal - Trading Strategy / Creativity Presentation     
 
 Patrick - Optimize GBM        
 
