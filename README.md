@@ -32,14 +32,14 @@ Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification t
 Friday 10-12, SH Cubicle 5432 X  
 
 ## Individual Deadlines
-***Friday February 7, 2020***      
+***Friday February 15, 2020***      
 Elia - Finish reading LSTM book   
 
-Sergio - Office hours     
+Sergio - Optimize LSTM   
 
 Crystal - Research other models     
 
-Patrick - Finish reading LSTM book, office hours        
+Patrick - Optimize GBM        
 
 ## Pesto Team
 
