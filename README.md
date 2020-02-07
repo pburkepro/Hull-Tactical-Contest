@@ -2,9 +2,9 @@
 
 Team Name: PESTO
 
-Predict S&P500 daily returns and implement a market timing strategy that buys and sells the index automatically based on the prediction model
+Problem: Predict S&P500 daily returns and implement a market timing strategy that buys and sells the index automatically based on a prediction model
 
-Our Goal: Using a gradient boosting model and a principal component analysis, create a fast and robust LSTM that will predict the day to day changes
+Our Goal: Using a gradient boosting model and long-short term neural network, build a model for predicting the price of the S&P 500 Index, and use this prediction along with our strategy to buy and sell shares  
 
 ## Documentation
 
