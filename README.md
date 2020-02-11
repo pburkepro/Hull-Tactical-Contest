@@ -17,7 +17,10 @@ https://www.coursera.org/learn/nlp-sequence-models Coursera that goes into the "
 http://www.bioinf.jku.at/publications/older/2604.pdf Initial research paper that demonstrates what an LSTM does mathematically      
 https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/ More Explanations  
 
-StackNet github repo: https://github.com/kaz-Anova/StackNet#what-is-stacknet
+StackNet GitHub repo: https://github.com/kaz-Anova/StackNet#what-is-stacknet
+Bayesian Optimization GitHub repo: https://github.com/fmfn/BayesianOptimization
+
+https://www.kaggle.com/tilii7/hyperparameter-grid-search-with-xgboost: Kaggle Optimization example for XGBoost
 
 
 
