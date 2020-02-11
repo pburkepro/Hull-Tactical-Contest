@@ -1,4 +1,3 @@
-![](https://images.app.goo.gl/WUrVU8DfxAaF42Ej7)
 # Hull-Tactical-Contest
 
 Team Name: PESTO
