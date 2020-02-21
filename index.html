@@ -3,16 +3,21 @@
 <head>
    <title>S&P 500 Forecast</title>
 <style>
+body {margin:0;}
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #444;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
@@ -21,11 +26,11 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-family: 'Roboto';
+  text-
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color: #333;
 }
 
 .active {
@@ -36,12 +41,25 @@ li a:hover:not(.active) {
 <body style="background-color: aquamarine;">
 
 <ul>
-  <li><a class="active" href="#home">Home</a></li>
+  <li style="float:left"><a class="active" href="#home">Home</a></li>
   <li><a href="#news">News</a></li>
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
 
+<div style="padding:20px;margin-top:30px;background-color:#1abc9c;height:1500px;">
+  <h1>S&P 500 Forecast</h1>
+  <h2>A five-day forecast of the S&P 500, built by our own neural network!</h2>
+
+  <p>Hello, welcome to Team PESTO's Website!</p>
+  <p>We're working on some really great stuff right now.</p>
+  <p>Unfortunately, our website is under construction.</p>
+  <p>However, this doesn't mean you can't still engage with us!</p>
+  <p>You can help out our research by donating in support of our education.</p>
+  <p>We are all students at the University of California, Santa Barbara.</p>
+  <p>Please, send what you can to the UCSB Statistics & Data Science Department.</p>
+  <p>Thank you for your support!</p>
+</div>
+
 </body>
 </html>
-
