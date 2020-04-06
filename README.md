@@ -38,14 +38,14 @@ Week of Mar. 2nd ddl for code test (prediction and strategy) and qualification t
 Friday 10-12, SH Cubicle 5432 X  
 
 ## Individual Deadlines
-***Friday February 15, 2020***      
-Elia - Trading Strategy / Creativity Presentation    
+***Friday April 12 2020***      
+Elia - Coursera courses on LSTMs, best optimization         
 
-Sergio - Optimize LSTM   
+Sergio - Putting the model in the cloud, adding users to aws 
 
-Crystal - Trading Strategy / Creativity Presentation     
+Anne - Looking up trading strategies for when markets go down        
 
-Patrick - Optimize GBM        
+Patrick - Add Users to AWS, Look up Interactive Frameworks for website          
 
 ## PESTO Team
 
